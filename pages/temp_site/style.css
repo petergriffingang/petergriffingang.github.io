@@ -3,9 +3,12 @@ body {
   color: white;
   font-family: Verdana;
 }
+a:link {color: #0bc039;}  
+a:visited {color: blue}  
+a:hover {color: #ffffff}  
+a:active {color: #ffffff}
 
-    <style type = "text/css">  
-       a:link {color: #ffffff;}  
-       a:visited {color: #ffffff}  
-       a:hover {color: #ffffff}  
-       a:active {color: #ffffff}
+a {
+  text-decoration:none;
+} 
+
