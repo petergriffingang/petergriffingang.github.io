@@ -94,6 +94,11 @@ hr {
 	margin-left: 0;
 }
 
+p {
+	color: #FFF;
+	margin: 0;
+}
+
 @media screen and (max-height: 920px) {
 
 	.links {
