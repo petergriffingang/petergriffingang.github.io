@@ -6,7 +6,7 @@
 <div id="container">
 	<div id="stuff">
 		<h1 class="title">Peter Griffin Battle Royale</h1>
-		<img src="/peter.jpeg" alt="Peter Griffin" class="peterimg">
+		<img src="peter.jpeg" alt="Peter Griffin" class="peterimg">
 		<h2 class="sub">You have entered the COOL zone!<br>We have really based stuff such as: A Peter Griffin animated series!</h2>
 	</div>
 </div>
