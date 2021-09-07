@@ -2,7 +2,7 @@
 	<a href="/" class="topnav-links"><i class="mdi mdi-home-outline"></i> Home</a>
 	<a href="episodes" class="topnav-links"><i class="mdi mdi-video-outline"></i> PGBR Episodes</a>
 	<a href="about" class="topnav-links"><i class="mdi mdi-account-supervisor-outline"></i> About Us</a>
-	<a href="https://pgbr.fandom.com/wiki/Pgbr_Wiki" class="topnav-links"><i class="mdi mdi-account-book-outline"></i> Wiki</a>
+	<a href="https://pgbr.fandom.com/wiki/Pgbr_Wiki" class="topnav-links"><i class="mdi mdi-book-outline"></i> Wiki</a>
 </div>
 
 <style lang="postcss">
